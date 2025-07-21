@@ -36,8 +36,7 @@ Built with **Flutter**, optimized for both Android and iOS.
 
 ## 📱 Screenshots
 
-*(Optional: Add your screenshots here for better presentation)*  
-Example:  
+
 ![Sky-Clock Screenshot](<img width="343" height="704" alt="Sky-clock" src="https://github.com/user-attachments/assets/be107736-44f3-4681-be59-92e2ec6f17ee" />)
 
 ---
