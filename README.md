@@ -28,8 +28,8 @@ Built with **Flutter**, optimized for both Android and iOS.
 
 - **Flutter** & **Dart**
 - **Weather API Integration**
-- **Provider / State Management** (if you used one, add here)
-- **Offline Storage** (e.g., SharedPreferences / Hive)
+- ** State Management** 
+- **Offline Storage** 
 - **Responsive UI** with Material Design components
 
 ---
